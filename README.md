@@ -56,7 +56,7 @@ Signnary is like a smart interpreter for sign language, turning complex gestures
 ## Result
 
 ![InceptionV3 Accuracy](Acc.png)
-![InceptionV3 Loss](Loss.png)
+![InceptionV3 Loss](Val.png)
 The plot of our InceptionV3 model's training history reveals promising performance, with training accuracy stabilizing around 95% and validation accuracy at 90%-91%. While there is a slight gap indicating some overfitting, the model shows good generalization on unseen data. This suggests a robust model but leaves room for further tuning to close the gap.
 
 Overall, the model shows strong performance with the BISINDO Sign languange predictions, and slightly confidence based on the image uploaded
